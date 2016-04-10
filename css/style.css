@@ -10,6 +10,16 @@ html, body {
 	height: 100%;
 }
 
+#mc_embed_signup {
+/*    background:#fff; 
+*/    clear:left; 
+    font:14px; 
+}
+
+#mc-embedded-subscribe {
+    margin-top: 20px;
+}
+
 body {
     width: auto;
     position: relative;
@@ -83,6 +93,22 @@ h1 {
     text-align: center;
     margin-top:50px;
 }
+
+h3 {
+    color: white; 
+    text-align: center;
+    margin-top: 10px;
+}
+
+#rsvp {
+    margin: 0 auto;
+}
+
+#rsvp_div {
+    text-align: center;
+    margin-top: 10px;
+}
+
 h2 img {
     padding-bottom: 7px;
     margin-right: 5px;
@@ -121,23 +147,23 @@ hr {
    ========================================================================== */
 
 .widget-button {
-    display: block;
+/*    display: block;
     width: 20px;
     height: 20px;
     font-size: 18px;
     position: absolute;
     right: 30px;
     top: 30px;
-}
+*/}
 
-.widget-button a {
+/*.widget-button a {
     color: #fff;
 }
 
 .widget-button a:hover {
     color: #289dcc;
 }
-
+*/
 .hide-overflow {
 	-webkit-transition: all .4s linear; 
 	-moz-transition: all .4s linear; 
@@ -367,7 +393,7 @@ div.mc-image {
     line-height: 1.2em;
     color: #ffffff;
     font-weight: 300;
-    margin-top: 25%;
+    margin-top: 10%;
     margin-bottom: 70px;
     position: relative;
     z-index: 50;

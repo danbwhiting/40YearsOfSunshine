@@ -1562,7 +1562,7 @@ function jsWidget() {
    ========================================================================== */ 
 
 // Le time value
-var end = new Date('04/23/2016 05:00 PM');
+var end = new Date('04/23/2016 04:30 PM');
 
 var _second = 1000;
 var _minute = _second * 60;

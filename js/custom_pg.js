@@ -1537,14 +1537,14 @@ $.fn.cycle.transitions.wipe = function($cont, $slides, opts) {
    General Functions
    ========================================================================== */
 
-// $(function () {
-//     jQuery('#maximage').maximage({
-//         cycleOptions: {
-//             prev: '#arrow_left',
-//             next: '#arrow_right'
-//         }
-//     });
-// });
+$(function () {
+    jQuery('#maximage').maximage({
+        cycleOptions: {
+            prev: '#arrow_left',
+            next: '#arrow_right'
+        }
+    });
+});
 
 function jsWidget() {
     if ($('#js-widget').hasClass('active')) {

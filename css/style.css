@@ -82,10 +82,11 @@ blockquote p {
 
 h1, h2, h3, h4 {
 	font-weight: 300;
-	line-height: 1em;
+	line-height: 1rem;
     margin: 0 0 10px;
 	color: #444444;
     font-family: 'Raleway', sans-serif;
+    max-width: 80%;
 }
 
 h1 {

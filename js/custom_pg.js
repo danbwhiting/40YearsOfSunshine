@@ -1599,5 +1599,5 @@ function showRemaining() {
 timer = setInterval(showRemaining, 1000);
 
 $('document').ready(function() {
-	$('#emailAddr').html('<a href=\"mailto:OpenTheGate@platinugate.consulting?subject=PlatinumGATE Website Inquiry\">OpenTheGate@platinugate.consulting</a>');
+	$('#emailAddr').html('<a href=\"mailto:OpenTheGate@platinumgate.consulting?subject=PlatinumGATE Website Inquiry\">OpenTheGate@platinumgate.consulting</a>');
 });

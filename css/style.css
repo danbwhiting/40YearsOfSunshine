@@ -708,11 +708,11 @@ ul.social-icons a:hover i { color: #fff; }
     body { overflow-x: hidden; }
     #countdown { margin-top: 10%; }
     #countdown [class*="col-"] { font-size: 40px; line-height: 30px; }
-    h1 {font-size: .5rem;}
+    h1 {font-size: 2rem;}
 }
  
 /* Landscape phones and down */
 @media (max-width: 480px) { 
-    h1 {font-size: .5rem;}
+    h1 {font-size: 2rem;}
 
 }
